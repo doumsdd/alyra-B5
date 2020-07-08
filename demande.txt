@@ -1,0 +1,19 @@
+Home : 
+HEADER : Carrousel
+Body : 2 grid 
+Footer
+--------------------
+Contact : 
+Header : sans Carrousel, juste 1 image
+Body : Formulaire + grid avec tag
+Footer
+------------------
+Category :
+Header : sans carousel ni image 
+body : liste grid
+Footer
+--------------------
+Single : 
+Header : sans Carrousel 1 image
+Body : Article full text + grid sur la droite
+footer

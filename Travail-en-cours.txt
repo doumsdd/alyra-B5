@@ -1,0 +1,26 @@
+30/06/
+-organisation du travail en équipe
+-structure des pages en HTML
+
+
+02/07
+-Popular Posts : séparer <p>date et <p>article pour un rendu propre
+-duplication #ID à corriger
+
+
+03/07/2020 : 
+Revoir le MP4 sur Discord: 
+contct.html check border-bottom              CONTACT: RESOLU PROBLEME EXEMPLE : FOOD           (12)
+
+HOME : faire la Grid / Aside
+SINGLE : Aside
+CATEGORY : Aside / date à baisser (card)
+NAVBAR : revoir les liens  *Audrei qui s'en charge*
+CSS : Organiser le CSS en fonction des pages
+
+ASIDE : Guilaume va intégrer les liens à la place des # dans réseaux so <OK/GP>
+i qui s'en charge*
+CSS : Organiser le CSS en fonction des pages
+
+ASIDE : Guilaume va intégrer les liens à la place des # dans réseaux so <OK/GP>
+Responsive pour tout /!\
